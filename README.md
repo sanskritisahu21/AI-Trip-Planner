@@ -1,8 +1,8 @@
-# 🧳 AI Trip Planner
+# 🧳 RahaGiri- AI Trip Planner
 
 ## 🌐 Overview
 
-**AI Trip Planner** is an intelligent application designed to craft personalized travel itineraries swiftly and efficiently. Leveraging the power of AI agents, the application integrates internet search capabilities to provide users with comprehensive trip plans tailored to their preferences.
+**RahaGiri- AI Trip Planner** is an intelligent application designed to craft personalized travel itineraries swiftly and efficiently. Leveraging the power of AI agents, the application integrates internet search capabilities to provide users with comprehensive trip plans tailored to their preferences.
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +23,7 @@
 
 ## 📂 Project Structure
 ```
-AI-Trip-Planner/
+RahaGiri-AI-Trip-Planner/
 ├── main.py              # Main application script
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
@@ -34,8 +34,8 @@ AI-Trip-Planner/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sanskritisahu21/AI-Trip-Planner.git
-   cd AI-Trip-Planner
+   git clone https://github.com/sanskritisahu21/RahaGiri-AI-Trip-Planner.git
+   cd RahaGiri-AI-Trip-Planner
    ```
 
 2. **Create a virtual environment (optional but recommended):**
